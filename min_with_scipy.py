@@ -1,5 +1,5 @@
 from scipy.optimize import linprog
-
+#https://realpython.com/linear-programming-python/
 obj = [-1, -2]
 
 lhs_ineq = [[ 2,  1],  # Red constraint left side
